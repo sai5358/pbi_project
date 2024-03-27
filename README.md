@@ -1,35 +1,35 @@
 # HR_ANALYTICS
 
-## INTRODUCTION
+## Introduction
 
- THIS IS AN END TO END PROJECT OF HR ANALYTICS USING POWER BI
+ This Is An End To End Project Of HR Analytics Using Power bi
 
-### OBJECTIVE
+### Objective
 
-HELP AN ORGANISATION TO IMPROVE EMPLOYEE PERFORMANCE AND EMPLOYEE RETENTION (REDUCE EMPLOYEE ATTRITION ) BY CREATING A HR ANALYTICS DASHBOARD
+Help An Organization To Improve Employee Performance And Employee Retenton (Reduce Employee Attrition ) By Creating A HR Analytics Dashboard
 
-### TOOLS
+### Tools
 
-POWER BI (POWER QUERY)
+Power bI (Power Query)
 
-### SUMMARY OF FINDINGS
-
-
-1) LIFE SCIENCE EDUCATION BACKGROUND HAS MORE ATTRITION PERCENTAGE (38%) COMPARE TO OTHER BACKGROUND.
-2) (26-35) AGE GROUP HAS MORE ATTRITION RATE.
-3) UPTO (5K) SALARY HAS MORE ATTRITION RATE.
-4) (0-2) YEARS OF EXPERENCE PEOPLE HAS MORE ATTRITION RATE AT THE COMPANY.
+### Summary Of Findings
 
 
-### SUGGETIONS TO IMPROVE EMPLOYEE PERFORMANCE AND REDUCE EMPLOYEE ATTRITION
+1) Life Science Education Background Has More Attrition Percentage (38%) Compare To Other Background.
+2) (26-35) Age Group Has More Attrition Rate.
+3) UPTO (5K) Salary Has More Attrition Rate.
+4) (0-2) Years Of Experience People Has More Attrition Rate At The Company.
 
-- RECOGNIZE AND AWARD ACHIEVEMENTS TO BOOST MORALE.
-- OFFER TRAINING PROGRAMS AND OPPRTUNITIES FOR SKILL DEVELOPMENT.
-- PROMOTE WORK-LIFE BALANCE TO REDUCE STRESS AND BURNOUT.
-- ENSURE THAT SALARIES ARE COMPETITIVE IN THE INDUSTRY.
-- PROVIDE STRONG LEADERSHIP AND MENTORSHIP.
-- CONDUCT EXIT INTERVIEWS TO UNDERSTAND REASONS FOR ATTRITION.
-- ANALYSE FEEDBACK TO MAKE NECESSARY IMPROVEMENTS.
+
+### Suggestions To Improve Employee Performance And Reduce Employee Attrition
+
+- Recognize And Award Achievements To Boost Morale.
+- Offer Training Programs And Opportunities For Skill Development.
+- Promote Work-Life Balance To Reduce Stress And Burnout.
+- Ensure That Salaries Are Competative In The Industry.
+- Provide Strong Leadership And Mentorship.
+- Conduct Exit Interviews To Understand Reasons For Attrition.
+- Analyse Feedback To Make Necessary Improvements.
 
 
 
