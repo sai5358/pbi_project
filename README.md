@@ -1,18 +1,18 @@
-# HR_ANALYTICS
+# HR_ANALYTICS.
 
-## Introduction
+## Introduction.
 
  This Is An End To End Project Of HR Analytics Using Power bi
 
-### Objective
+### Objective.
 
 Help An Organization To Improve Employee Performance And Employee Retenton (Reduce Employee Attrition ) By Creating A HR Analytics Dashboard
 
-### Tools
+### Tools.
 
 Power bI (Power Query)
 
-### Summary Of Findings
+### Summary Of Findings.
 
 
 1) Life Science Education Background Has More Attrition Percentage (38%) Compare To Other Background.
@@ -21,7 +21,7 @@ Power bI (Power Query)
 4) (0-2) Years Of Experience People Has More Attrition Rate At The Company.
 
 
-### Suggestions To Improve Employee Performance And Reduce Employee Attrition
+### Suggestions To Improve Employee Performance And Reduce Employee Attrition.
 
 - Recognize And Award Achievements To Boost Morale.
 - Offer Training Programs And Opportunities For Skill Development.
